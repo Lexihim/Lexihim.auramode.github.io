@@ -1,0 +1,9 @@
+# Lexihim.auramode.github.io
+HTML
+ ├── HEAD
+ └── BODY
+      ├── marquee
+      ├── nav
+      ├── h1
+      ├── content (divs, forms, lists)
+      └── script
