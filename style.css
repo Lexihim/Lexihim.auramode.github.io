@@ -1,0 +1,28 @@
+# Lexihim.auramode.github.io
+body {
+    font-family: Arial;
+    background: #111;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    background: #222;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: gold;
+}
+
+.product, .member {
+    border: 1px solid white;
+    margin: 10px;
+    padding: 10px;
+}
