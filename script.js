@@ -1,4 +1,4 @@
-# Lexihim.auramode.github.io
+# https://Lexihim.github.io/Velora
 function showMessage() {
     alert("Welcome to Velora Fashion House 😎🔥");
 }
